@@ -49,7 +49,7 @@ public class AmazonAddToCart {
 		amazonAddToCart.click();
 		
 	}
-	public void clickOnclosebttonAddToCart()
+	public void clickOnclosebttonAddToCart123()
 	{
 		closebttonAddToCart.click();
 	}
